@@ -5,7 +5,7 @@
 ## 🌸 **About Me**
 - **Software Engineering** & **Biomedical Engineering Student**
 - Passionate about **Bionics, ML, Web Dev, and Game Dev**
-- Currently learning on **Game Development using Unity and Unreal Engine**
+- Currently learning **Game Development** using **Unity** & **Unreal Engine**
 
 ---
 
